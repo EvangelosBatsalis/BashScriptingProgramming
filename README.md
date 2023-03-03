@@ -1,6 +1,6 @@
 # BashScripting
  
-INSTRUCTIONS (check the required deliverables – cover page):
+INSTRUCTIONS :
 1. Create a directory named COURSEWORK in your home directory at the College’s Linux server. The main script(s) and all related files should be stored there.
 2. Make sure that you test the proper execution without any error messages and the required functionality of your scripts before submission. User interface has to be simple but intuitive, validating all user inputs and cases, providing meaningful instructions and error messages.
 3. Your scripts have to be properly formatted and documented using appropriate comments, to allow for easy code inspection and debugging.
