@@ -1,4 +1,4 @@
-# BashScriptingProject
+# BashScripting
  
 INSTRUCTIONS (check the required deliverables – cover page):
 1. Create a directory named COURSEWORK in your home directory at the College’s Linux server. The main script(s) and all related files should be stored there.
